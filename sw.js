@@ -2,7 +2,7 @@
 // network first so a new version shows up as soon as you're online; falls
 // back to the saved copy when you're not. The version below is bumped on
 // every commit, which clears out old saved copies.
-const CACHE = 'play-along-v2';
+const CACHE = 'play-along-v3';
 const FILES = ['./', './index.html', './manifest.webmanifest', './apple-touch-icon.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
