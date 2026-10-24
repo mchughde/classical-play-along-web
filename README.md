@@ -1,7 +1,7 @@
 # Classical Play-Along
 
-Play the tune of classical pieces on an on-screen piano while cellos and a
-double bass accompany you. Falling blocks show which key to press next.
+Play the tune of classical pieces on an on-screen piano while an automatic
+accompaniment plays along: a piano left hand, or cellos and double bass. Falling blocks show which key to press next.
 
 **Play it:** https://mchughde.github.io/classical-play-along-web/
 

@@ -1,7 +1,7 @@
 {
   "name": "Classical Play-Along",
   "short_name": "Play-Along",
-  "description": "Play the tune of classical pieces on a piano while an orchestra accompanies you.",
+  "description": "Play the tune of classical pieces on a piano with an automatic accompaniment.",
   "start_url": "./",
   "display": "standalone",
   "orientation": "landscape",
