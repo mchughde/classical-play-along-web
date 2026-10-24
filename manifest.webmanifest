@@ -1,0 +1,14 @@
+{
+  "name": "Classical Play-Along",
+  "short_name": "Play-Along",
+  "description": "Play the tune of classical pieces on a piano while an orchestra accompanies you.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#15131b",
+  "theme_color": "#15131b",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
